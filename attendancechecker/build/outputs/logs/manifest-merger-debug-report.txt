@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:1-28:12
+MERGED from [me.dm7.barcodescanner:zbar:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\zbar-1.9.8.aar\3ea9706f7112accb95feeab04d95e5a4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\72be221eb09516538e88bab697a14779\AndroidManifest.xml:17:1-31:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\616abf09281b92ddfa94b61c66237638\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\ca07b86aa05bbee07625d0e5f1e0c7bf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\78c4f4d45dc00aab4edd45248254554a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e716e99042715f1a52c379b55446f9d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e862d667b6830b1ebbc622efaaa17b1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\39cd340d4217a7d472afbac4c73e0b07\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\097fd0efc871eb191ef539a8a441abf3\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87c0c91b7dfb31b4e56142be1f3e57f5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1108fbb76fa9faebf54785b450df0edf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a30413e6c2df4ff5304399eff6ca5056\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fb4518148b630f5d5921ccac0d84e11c\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:1-28:12
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:1-28:12
+	package
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:70-113
+	android:versionName
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:1-28:12
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:1-28:12
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:4:20-60
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:5:3-74
+	android:name
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:5:20-71
+application
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:7:3-27:17
+MERGED from [me.dm7.barcodescanner:zbar:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\zbar-1.9.8.aar\3ea9706f7112accb95feeab04d95e5a4\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zbar:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\zbar-1.9.8.aar\3ea9706f7112accb95feeab04d95e5a4\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\72be221eb09516538e88bab697a14779\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\72be221eb09516538e88bab697a14779\AndroidManifest.xml:29:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\616abf09281b92ddfa94b61c66237638\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\616abf09281b92ddfa94b61c66237638\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\ca07b86aa05bbee07625d0e5f1e0c7bf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\ca07b86aa05bbee07625d0e5f1e0c7bf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\78c4f4d45dc00aab4edd45248254554a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\78c4f4d45dc00aab4edd45248254554a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e716e99042715f1a52c379b55446f9d6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e716e99042715f1a52c379b55446f9d6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e862d667b6830b1ebbc622efaaa17b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e862d667b6830b1ebbc622efaaa17b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\39cd340d4217a7d472afbac4c73e0b07\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\39cd340d4217a7d472afbac4c73e0b07\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87c0c91b7dfb31b4e56142be1f3e57f5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87c0c91b7dfb31b4e56142be1f3e57f5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1108fbb76fa9faebf54785b450df0edf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1108fbb76fa9faebf54785b450df0edf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a30413e6c2df4ff5304399eff6ca5056\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a30413e6c2df4ff5304399eff6ca5056\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fb4518148b630f5d5921ccac0d84e11c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fb4518148b630f5d5921ccac0d84e11c\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:7:16-42
+activity#me.dm7.barcodescanner.zbar.attendancechecker.MainActivity
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:10:9-17:20
+	android:label
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:12:19-51
+	android:theme
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:11:19-50
+	android:name
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:10:19-91
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:15:27-74
+activity#me.dm7.barcodescanner.zbar.attendancechecker.FullScannerActivity
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:19:9-25:20
+	android:label
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:22:19-59
+	android:uiOptions
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:21:19-63
+	android:theme
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:20:19-57
+	android:name
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:19:19-98
+meta-data#android.support.UI_OPTIONS
+ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:23:13-24:67
+	android:value
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:24:24-64
+	android:name
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml:23:24-65
+uses-sdk
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+MERGED from [me.dm7.barcodescanner:zbar:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\zbar-1.9.8.aar\3ea9706f7112accb95feeab04d95e5a4\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zbar:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\zbar-1.9.8.aar\3ea9706f7112accb95feeab04d95e5a4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\72be221eb09516538e88bab697a14779\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\72be221eb09516538e88bab697a14779\AndroidManifest.xml:21:5-23:78
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\616abf09281b92ddfa94b61c66237638\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\user\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\616abf09281b92ddfa94b61c66237638\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\ca07b86aa05bbee07625d0e5f1e0c7bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\ca07b86aa05bbee07625d0e5f1e0c7bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\78c4f4d45dc00aab4edd45248254554a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\78c4f4d45dc00aab4edd45248254554a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e716e99042715f1a52c379b55446f9d6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e716e99042715f1a52c379b55446f9d6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e862d667b6830b1ebbc622efaaa17b1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e862d667b6830b1ebbc622efaaa17b1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\39cd340d4217a7d472afbac4c73e0b07\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\39cd340d4217a7d472afbac4c73e0b07\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\097fd0efc871eb191ef539a8a441abf3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\097fd0efc871eb191ef539a8a441abf3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87c0c91b7dfb31b4e56142be1f3e57f5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87c0c91b7dfb31b4e56142be1f3e57f5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1108fbb76fa9faebf54785b450df0edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1108fbb76fa9faebf54785b450df0edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a30413e6c2df4ff5304399eff6ca5056\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a30413e6c2df4ff5304399eff6ca5056\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fb4518148b630f5d5921ccac0d84e11c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fb4518148b630f5d5921ccac0d84e11c\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+		ADDED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+		INJECTED from C:\Games\Projects\Java\barcodescanner-master\attendancechecker\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\72be221eb09516538e88bab697a14779\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\72be221eb09516538e88bab697a14779\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\ca07b86aa05bbee07625d0e5f1e0c7bf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\ca07b86aa05bbee07625d0e5f1e0c7bf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\78c4f4d45dc00aab4edd45248254554a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\78c4f4d45dc00aab4edd45248254554a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e716e99042715f1a52c379b55446f9d6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e716e99042715f1a52c379b55446f9d6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e862d667b6830b1ebbc622efaaa17b1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e862d667b6830b1ebbc622efaaa17b1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\39cd340d4217a7d472afbac4c73e0b07\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\39cd340d4217a7d472afbac4c73e0b07\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\097fd0efc871eb191ef539a8a441abf3\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\097fd0efc871eb191ef539a8a441abf3\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87c0c91b7dfb31b4e56142be1f3e57f5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\87c0c91b7dfb31b4e56142be1f3e57f5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1108fbb76fa9faebf54785b450df0edf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\1108fbb76fa9faebf54785b450df0edf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a30413e6c2df4ff5304399eff6ca5056\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\a30413e6c2df4ff5304399eff6ca5056\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fb4518148b630f5d5921ccac0d84e11c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fb4518148b630f5d5921ccac0d84e11c\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\27953de29f46a21b441527f40a474955\AndroidManifest.xml:26:9-47

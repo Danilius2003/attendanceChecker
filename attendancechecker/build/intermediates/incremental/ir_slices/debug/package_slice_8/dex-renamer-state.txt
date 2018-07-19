@@ -1,0 +1,4 @@
+#Thu Jul 19 23:45:46 MSK 2018
+base.0=C\:\\Games\\Projects\\Java\\barcodescanner-master\\attendancechecker\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

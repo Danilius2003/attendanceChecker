@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/attendancechecker/attendancechecker.iml" filepath="$PROJECT_DIR$/attendancechecker/attendancechecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodescanner-master.iml" filepath="$PROJECT_DIR$/barcodescanner-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zbar/zbar.iml" filepath="$PROJECT_DIR$/zbar/zbar.iml" />
+    </modules>
+  </component>
+</project>
